@@ -50,47 +50,5 @@ class Solution:
                     
 
         
-#         while list1 != None and list2 != None:
-#             if list1.val <= list2.val:
-#                 if head == None:
-#                     list3 = ListNode(list1.val)
-#                     head = list3
-#                 else:
-#                     list3 = ListNode(list1.val)
-                    
-#                 list1 = list1.next
-            
-#             else:
-#                 if head == None:
-#                     list3 = ListNode(list2.val)
-#                     head = list3
-#                 else:
-#                     list3 = ListNode(list2.val)
-#                 list2 = list2.next
-#             # print(list3)
-#             list3 = list3.next
 
-            
-                
-#         while list1 != None:
-#             if head == None:
-#                 list3 = ListNode(list1.val)
-#                 head = list3
-#             else:                        
-#                 list3 = ListNode(list1.val)
-#             list1 = list1.next
-#             list3 = list3.next
-
-#         while list2 != None:    
-#             if head == None:
-#                 list3 = ListNode(list2.val)
-#                 head = list3
-#             else: 
-#                 list3 = ListNode(list2.val)
-        
-#             list2 = list2.next
-#             list3 = list3.next
-    
-        
-#         return head
             
